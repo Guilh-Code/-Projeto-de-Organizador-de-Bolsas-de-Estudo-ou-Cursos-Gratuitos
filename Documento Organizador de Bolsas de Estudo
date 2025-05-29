@@ -1,0 +1,123 @@
+\==========================================================
+            PASSO A PASSO: CONSTRUINDO O PROJETO
+===========================================================
+
+1. IMPORTAÇÕES ESSENCIAIS
+
+* `from datetime import datetime` → permite trabalhar com datas (formatar prazos de inscrição).
+* `from time import sleep` → pausa o programa por alguns segundos (efeito de carregamento).
+* `import json` → leitura e escrita de arquivos JSON (armazenar as bolsas).
+* `import csv` → exportar dados em formato planilha (CSV).
+
+-------------------------------------------------------------------------
+
+2. GERENCIAMENTO DE ARQUIVOS JSON
+
+* `salvar_bolsas_em_arquivos()` → grava a lista `bolsas` no arquivo `bolsas.json`.
+* `carregar_bolsas_de_arquivo()` → tenta carregar os dados do arquivo JSON e armazenar na lista `bolsas`. Se não existir, cria uma lista vazia.
+
+-------------------------------------------------------------------------
+
+3. EXPORTAÇÃO PARA CSV
+
+* `exportar_bolsas_para_csv()` → salva os dados da lista de bolsas em formato `.csv`, compatível com Excel e Google Planilhas.
+
+  * Cabeçalho: nome, instituição, modalidade, valor, prazo.
+  * Usa funções auxiliares `formatar_valor` e `formatar_data_brasileira`.
+
+-------------------------------------------------------------------------
+
+4. VARIÁVEL PRINCIPAL DO PROJETO
+
+* `bolsas = []` → lista onde todos os dados das bolsas serão armazenados em tempo de execução.
+
+-------------------------------------------------------------------------
+
+5. CÓDIGOS DE COR ANSI
+
+* Variáveis como `VERDE`, `AZUL`, `NEGRITO` etc. para estilizar o terminal com cores e negrito, tornando a interface mais atraente.
+
+-------------------------------------------------------------------------
+
+6. INTERFACE DE MENU
+
+* `exibir_menu()` → imprime o menu principal formatado com cores e tabelas.
+
+-------------------------------------------------------------------------
+
+7. CADASTRO DE NOVA BOLSA
+
+* `cadastrar_bolsa()` → pede os dados ao usuário:
+
+  * nome do curso, instituição, modalidade, valor, e prazo de inscrição.
+  * transforma os dados em um dicionário e adiciona à lista `bolsas`.
+  * salva no arquivo JSON automaticamente.
+
+-------------------------------------------------------------------------
+
+8. MENU DE CONTINUAÇÃO
+
+* `continuar_ou_sair()` → pergunta ao usuário se deseja voltar ao menu principal ou encerrar o programa.
+
+-------------------------------------------------------------------------
+
+9. ORDENAÇÃO E BUSCA
+
+* `quicksort(lista, chave)` → algoritmo de ordenação personalizado que organiza a lista de bolsas pela chave (ex: nome).
+* `buscar_bolsas_por_nome_parcial(lista, termo)` → busca bolsas que contenham parte do nome informado (insensível a maiúsculas/minúsculas).
+
+-------------------------------------------------------------------------
+
+10. FORMATAÇÃO VISUAL DAS BOLSAS
+
+* `exibir_bolsa_formatada(bolsa)` → exibe uma bolsa com cor, espaçamento e estilo:
+
+  * nome, instituição, modalidade, valor e prazo de inscrição.
+  * converte valores como 0 em "Gratuito".
+
+-------------------------------------------------------------------------
+
+11. FUNÇÕES AUXILIARES
+
+* `formatar_data_brasileira(data)` → converte de AAAA-MM-DD para DD/MM/AAAA.
+* `formatar_valor(valor)` → formata o valor com "R\$" ou "Gratuito".
+* `normalizar_texto(texto)` → coloca texto em minúsculas e remove espaços (para facilitar comparações).
+
+-------------------------------------------------------------------------
+
+12. FILTRAGEM POR INSTITUIÇÃO
+
+* `filtrar_por_instituicao(lista, instituicao)` → retorna bolsas da instituição exata.
+* Mostra ao usuário todas as instituições disponíveis com número de cursos.
+* Usuário escolhe uma, e são exibidas as bolsas daquela instituição.
+
+-------------------------------------------------------------------------
+
+13. LOOP PRINCIPAL
+
+* Carrega os dados com `carregar_bolsas_de_arquivo()`.
+* Exibe mensagem de boas-vindas e aguarda 5 segundos.
+* Loop infinito que mostra o menu e executa a opção escolhida:
+
+  * 1 → Cadastrar bolsa
+  * 2 → Listar ordenadas
+  * 3 → Buscar por nome
+  * 4 → Filtrar por instituição
+  * 5 → Exportar para CSV
+  * 6 → Sair
+
+-------------------------------------------------------------------------
+
+14. BOAS PRÁTICAS UTILIZADAS
+
+* Dados salvos em JSON de forma persistente.
+* Exportação de relatórios para CSV.
+* Uso de cores ANSI para interface mais amigável.
+* Funções bem separadas para modularização.
+* Uso de QuickSort para aprendizado de algoritmo personalizado.
+* Sistema de filtragem com feedback visual.
+
+\==========================================================
+  ESSE DOCUMENTO FOI CRIADO PARA FIXAÇÃO DO FUNCIONAMENTO
+       DO SISTEMA DE ORGANIZAÇÃO DE BOLSAS DE ESTUDO
+===========================================================

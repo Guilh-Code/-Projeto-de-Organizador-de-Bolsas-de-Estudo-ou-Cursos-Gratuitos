@@ -1,0 +1,136 @@
+\===========================
+ORGANIZADOR DE BOLSAS DE ESTUDO - GUIA DE IMPLEMENTAÇÃO
+=======================================================
+
+Este guia explica passo a passo como construir o sistema completo de organização de bolsas de estudo. Ideal para revisar a lógica do código e fixar o conhecimento.
+
+1. IMPORTAÇÃO DE MÓDULOS
+
+* `datetime`, `sleep`: usados para manipulação de datas e tempo de espera.
+* `json`, `csv`: permitem salvar, ler e exportar dados do sistema.
+
+-------------------------------------------------------------------------
+
+2. GERENCIAMENTO DE ARQUIVOS JSON
+
+✅ **salvar\_bolsas\_em\_arquivos**
+
+* Salva a lista `bolsas` em um arquivo `bolsas.json`.
+* Usa `json.dump()` para transformar os dados em texto legível e formatado.
+
+✅ **carregar\_bolsas\_de\_arquivo**
+
+* Tenta abrir o arquivo `bolsas.json` e carregar os dados na lista `bolsas`.
+* Se o arquivo não existir, a lista é inicializada vazia.
+
+-------------------------------------------------------------------------
+
+3. EXPORTAÇÃO PARA CSV
+
+✅ **exportar\_bolsas\_para\_csv**
+
+* Exporta as bolsas da lista para um arquivo .csv compatível com Excel.
+* Usa `csv.writer()` e inclui cabeçalhos e dados formatados.
+* Chama `formatar_valor` e `formatar_data_brasileira` para deixar os dados mais amigáveis.
+
+-------------------------------------------------------------------------
+
+4. VARIÁVEL PRINCIPAL
+
+* `bolsas = []`: armazena todas as bolsas cadastradas.
+
+-------------------------------------------------------------------------
+
+5. CÓDIGOS ANSI PARA CORES
+
+* Variáveis com códigos ANSI (`\033`) para dar cor ao terminal.
+* `RESET` limpa o estilo após cada texto colorido.
+
+-------------------------------------------------------------------------
+
+6. MENU DO SISTEMA
+
+✅ **exibir\_menu**
+
+* Exibe um menu estilizado com as opções disponíveis para o usuário.
+
+-------------------------------------------------------------------------
+
+7. CADASTRO DE NOVA BOLSA
+
+✅ **cadastrar\_bolsa**
+
+* Solicita informações do usuário via `input()`.
+* Cria um dicionário com os dados e adiciona na lista `bolsas`.
+* Salva automaticamente no JSON após o cadastro.
+
+-------------------------------------------------------------------------
+
+8. MENU DE CONTINUAÇÃO
+
+✅ **continuar\_ou\_sair**
+
+* Pergunta se o usuário quer continuar ou sair.
+* Retorna True ou False para controlar o loop principal.
+
+-------------------------------------------------------------------------
+
+9. ORDENAÇÃO E BUSCA
+
+✅ **quicksort(lista, chave)**
+
+* Algoritmo recursivo que ordena a lista `bolsas` com base na chave fornecida.
+
+✅ **buscar\_bolsas\_por\_nome\_parcial**
+
+* Procura bolsas cujo nome contenha uma parte do texto digitado, ignorando maiúsculas/minúsculas.
+
+-------------------------------------------------------------------------
+
+10. EXIBIÇÃO FORMATA COM CORES
+
+✅ **exibir\_bolsa\_formatada**
+
+* Imprime os dados de cada bolsa com cores, alinhamento e símbolos para facilitar a leitura.
+* Mostra nome, instituição, modalidade, valor e prazo formatados.
+
+-------------------------------------------------------------------------
+
+11. FUNÇÕES UTILITÁRIAS
+
+✅ **formatar\_data\_brasileira**
+
+* Converte datas do padrão YYYY-MM-DD para DD/MM/AAAA.
+
+✅ **formatar\_valor**
+
+* Transforma valores numéricos em "Gratuito" ou R\$XX,XX.
+
+✅ **normalizar\_texto**
+
+* Remove espaços e converte texto para minúsculo para facilitar comparações.
+
+-------------------------------------------------------------------------
+
+12. FILTRO POR INSTITUIÇÃO
+
+✅ **filtrar\_por\_instituicao**
+
+* Retorna as bolsas de uma instituição específica, comparando nomes normalizados.
+
+-------------------------------------------------------------------------
+
+13. EXECUÇÃO PRINCIPAL
+
+✅ Carrega os dados do JSON ao iniciar.
+✅ Exibe mensagem de boas-vindas e quantidade de bolsas.
+✅ Entra em loop:
+
+* Exibe menu
+* Lê a opção do usuário
+* Executa ação correspondente (cadastrar, listar, buscar, filtrar, exportar ou sair)
+* Pergunta se deseja continuar ou encerrar
+
+## FIM DO GUIA
+
+Esse guia serve como um mapa completo para entender cada parte do sistema.

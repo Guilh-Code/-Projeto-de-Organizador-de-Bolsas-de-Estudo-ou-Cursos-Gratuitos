@@ -1,0 +1,933 @@
+[
+    {
+        "nome": "Medicina",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 2100.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Enfermagem",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 520.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Fisioterapia",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 600.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Biomedicina",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 600.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Nutrição",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 640.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Psicologia",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 650.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Odontologia",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 2100.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Fonoaudiologia",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 600.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Educação Física",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 490.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Educação Física",
+        "instituicao": "Unicid",
+        "modalidade": "Online",
+        "valor": 270.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Engenharia Civil",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 800.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Engenharia Mecânica",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 800.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Engenharia de Produção",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 800.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Engenharia Ambiental",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 880.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Engenharia Ambiental",
+        "instituicao": "Unicid",
+        "modalidade": "Online",
+        "valor": 420.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Engenharia Elétrica",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 800.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 500.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Análise e Desenvolvimento de Sistemas",
+        "instituicao": "Unicid",
+        "modalidade": "Online",
+        "valor": 270.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Ciência da Computação",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 560.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Administração",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 600.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Administração",
+        "instituicao": "Unicid",
+        "modalidade": "Online",
+        "valor": 290.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Ciências Contábeis",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 600.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Ciências Contábeis",
+        "instituicao": "Unicid",
+        "modalidade": "Online",
+        "valor": 290.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Gestão de Recursos Humanos",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 500.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Gestão de Recursos Humanos",
+        "instituicao": "Unicid",
+        "modalidade": "Online",
+        "valor": 260.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Gestão Financeira",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 510.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Gestão Financeira",
+        "instituicao": "Unicid",
+        "modalidade": "Online",
+        "valor": 260.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Marketing",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 500.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Marketing",
+        "instituicao": "Unicid",
+        "modalidade": "Online",
+        "valor": 260.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Pedagogia",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 400.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Pedagogia",
+        "instituicao": "Unicid",
+        "modalidade": "Online",
+        "valor": 260.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Letras (Português/Inglês)",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 480.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Letras (Português/Inglês)",
+        "instituicao": "Unicid",
+        "modalidade": "Online",
+        "valor": 270.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Letras (Português/Espanhol)",
+        "instituicao": "Unicid",
+        "modalidade": "Online",
+        "valor": 260.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Direito",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 700.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Serviço Social",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 550.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Serviço Social",
+        "instituicao": "Unicid",
+        "modalidade": "Online",
+        "valor": 290.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Ciências Sociais",
+        "instituicao": "Unicid",
+        "modalidade": "Online",
+        "valor": 290.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Relações Internacionais",
+        "instituicao": "Unicid",
+        "modalidade": "Presencial",
+        "valor": 600.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Biomedicina",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD Semipresencial",
+        "valor": 600.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Enfermagem",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD Semipresencial",
+        "valor": 650.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Fisioterapia",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD Semipresencial",
+        "valor": 700.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Nutrição",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD Semipresencial",
+        "valor": 620.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Farmácia",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD Semipresencial",
+        "valor": 680.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Engenharia Civil",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD Semipresencial",
+        "valor": 800.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Engenharia de Produção",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD Semipresencial",
+        "valor": 750.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Engenharia Elétrica",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD Semipresencial",
+        "valor": 770.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Engenharia Mecânica",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD Semipresencial",
+        "valor": 780.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Engenharia da Computação",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD Semipresencial",
+        "valor": 790.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Administração",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD 100% online",
+        "valor": 300.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Ciências Contábeis",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD 100% online",
+        "valor": 320.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Gestão de Recursos Humanos",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD 100% online",
+        "valor": 280.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Gestão Financeira",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD 100% online",
+        "valor": 290.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Marketing",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD 100% online",
+        "valor": 270.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Pedagogia",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD 100% online",
+        "valor": 250.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Letras (Português/Inglês)",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD 100% online",
+        "valor": 260.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Letras (Português/Espanhol)",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD 100% online",
+        "valor": 260.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Educação Física",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD 100% online",
+        "valor": 270.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "História",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD 100% online",
+        "valor": 260.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Direito",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "Presencial",
+        "valor": 900.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Serviço Social",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD 100% online",
+        "valor": 280.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Ciências Sociais",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD 100% online",
+        "valor": 270.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Relações Internacionais",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD 100% online",
+        "valor": 300.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Ciência Política",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD 100% online",
+        "valor": 290.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Arquitetura e Urbanismo",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD Semipresencial",
+        "valor": 750.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Design de Interiores",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD 100% online",
+        "valor": 280.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Design Gráfico",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD 100% online",
+        "valor": 270.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Artes Visuais",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD 100% online",
+        "valor": 260.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Fotografia",
+        "instituicao": "Cruzeiro do Sul",
+        "modalidade": "EAD 100% online",
+        "valor": 250.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Algoritmo",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Python 3 – Mundo 1",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Python 3 – Mundo 2",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Python 3 – Mundo 3",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Java Básico",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "PHP Básico",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "PHP POO",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "PHP Moderno: Módulo 1",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "JavaScript",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "MySQL",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "HTML5 e CSS3: Módulo 1 de 5",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "HTML5 e CSS3: Módulo 2 de 5",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "HTML5 e CSS3: Módulo 3 de 5",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "HTML5 e CSS3: Módulo 4 de 5",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "HTML5 e CSS3: Módulo 5 de 5",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "WordPress: Criando um site do zero",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "WordPress: Segurança, performance e recursos avançados",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "WordPress + WooCommerce: Como criar uma loja virtual de sucesso",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Inteligência Artificial",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "SEO: Módulo 1 – Transforme seu site em um campeão de buscas",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "SEO: Módulo 2 – Domine a criação de conteúdos otimizados",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Redes de Computadores",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Curso Prático de Redes de Computadores e Internet",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Endereçamento IPv4",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Linux",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Segurança da Informação: Módulo 0",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Segurança da Informação: Módulo 1",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Segurança da Informação: Módulo 2",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Segurança da Informação: Módulo 3",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Segurança da Informação: Módulo 4",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Excel",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Word",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "PowerPoint",
+        "instituicao": "Curso em Vídeo",
+        "modalidade": "EAD 100% online",
+        "valor": 50.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Java: criando a sua primeira aplicação",
+        "instituicao": "Alura",
+        "modalidade": "EAD 100% online",
+        "valor": 109.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Python: começando com a linguagem",
+        "instituicao": "Alura",
+        "modalidade": "EAD 100% online",
+        "valor": 109.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "C#: desenvolvendo aplicações com .NET",
+        "instituicao": "Alura",
+        "modalidade": "EAD 100% online",
+        "valor": 109.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "HTML e CSS: construindo páginas web",
+        "instituicao": "Alura",
+        "modalidade": "EAD 100% online",
+        "valor": 109.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "JavaScript: manipulando o DOM",
+        "instituicao": "Alura",
+        "modalidade": "EAD 100% online",
+        "valor": 109.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "React: desenvolvendo interfaces interativas",
+        "instituicao": "Alura",
+        "modalidade": "EAD 100% online",
+        "valor": 109.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Data Science: fundamentos e aplicações",
+        "instituicao": "Alura",
+        "modalidade": "EAD 100% online",
+        "valor": 109.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Machine Learning: introdução e conceitos",
+        "instituicao": "Alura",
+        "modalidade": "EAD 100% online",
+        "valor": 109.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Power BI: análise de dados e visualizações",
+        "instituicao": "Alura",
+        "modalidade": "EAD 100% online",
+        "valor": 109.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "UX Design: princípios e práticas",
+        "instituicao": "Alura",
+        "modalidade": "EAD 100% online",
+        "valor": 109.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Adobe XD: prototipagem de interfaces",
+        "instituicao": "Alura",
+        "modalidade": "EAD 100% online",
+        "valor": 109.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Design Thinking: inovação centrada no usuário",
+        "instituicao": "Alura",
+        "modalidade": "EAD 100% online",
+        "valor": 109.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Desenvolvimento Android com Kotlin",
+        "instituicao": "Alura",
+        "modalidade": "EAD 100% online",
+        "valor": 109.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "iOS: criando apps com Swift",
+        "instituicao": "Alura",
+        "modalidade": "EAD 100% online",
+        "valor": 109.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Flutter: desenvolvimento multiplataforma",
+        "instituicao": "Alura",
+        "modalidade": "EAD 100% online",
+        "valor": 109.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Docker: containers e virtualização",
+        "instituicao": "Alura",
+        "modalidade": "EAD 100% online",
+        "valor": 109.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Kubernetes: orquestração de containers",
+        "instituicao": "Alura",
+        "modalidade": "EAD 100% online",
+        "valor": 109.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "AWS: serviços e infraestrutura na nuvem",
+        "instituicao": "Alura",
+        "modalidade": "EAD 100% online",
+        "valor": 109.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Gestão Ágil: Scrum e Kanban",
+        "instituicao": "Alura",
+        "modalidade": "EAD 100% online",
+        "valor": 109.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Liderança: desenvolvendo equipes de alta performance",
+        "instituicao": "Alura",
+        "modalidade": "EAD 100% online",
+        "valor": 109.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Inovação: estratégias e cultura organizacional",
+        "instituicao": "Alura",
+        "modalidade": "EAD 100% online",
+        "valor": 109.00,
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Introdução à Administração",
+        "instituicao": "Fundação Bradesco",
+        "modalidade": "EAD 100% online",
+        "valor": "Gratuito",
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Contabilidade Empresarial",
+        "instituicao": "Fundação Bradesco",
+        "modalidade": "EAD 100% online",
+        "valor": "Gratuito",
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Excel 2016 - Básico",
+        "instituicao": "Fundação Bradesco",
+        "modalidade": "EAD 100% online",
+        "valor": "Gratuito",
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Linguagem de Programação Java - Básico",
+        "instituicao": "Fundação Bradesco",
+        "modalidade": "EAD 100% online",
+        "valor": "Gratuito",
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Língua Portuguesa sem Complicações",
+        "instituicao": "Fundação Bradesco",
+        "modalidade": "EAD 100% online",
+        "valor": "Gratuito",
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Educação Inclusiva",
+        "instituicao": "Fundação Bradesco",
+        "modalidade": "EAD 100% online",
+        "valor": "Gratuito",
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Empreendedorismo e Inovação",
+        "instituicao": "Fundação Bradesco",
+        "modalidade": "EAD 100% online",
+        "valor": "Gratuito",
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "FluêncIA - Inteligência Artificial",
+        "instituicao": "Fundação Bradesco",
+        "modalidade": "EAD 100% online",
+        "valor": "Gratuito",
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Inteligência Artificial para Pequenas e Médias Empresas",
+        "instituicao": "Fundação Bradesco",
+        "modalidade": "EAD 100% online",
+        "valor": "Gratuito",
+        "prazo_inscricao": "2025-06-30"
+    },
+    {
+        "nome": "Desenvolvimento Profissional",
+        "instituicao": "Fundação Bradesco",
+        "modalidade": "EAD 100% online",
+        "valor": "Gratuito",
+        "prazo_inscricao": "2025-06-30"
+    }
+]

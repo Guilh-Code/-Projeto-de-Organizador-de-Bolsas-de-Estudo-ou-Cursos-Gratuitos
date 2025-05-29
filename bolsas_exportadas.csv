@@ -1,0 +1,134 @@
+Nome,Instituição,Modalidade,Valor,Prazo de Inscrição
+Medicina,Unicid,Presencial,R$2100.00,30/06/2025
+Enfermagem,Unicid,Presencial,R$520.00,30/06/2025
+Fisioterapia,Unicid,Presencial,R$600.00,30/06/2025
+Biomedicina,Unicid,Presencial,R$600.00,30/06/2025
+Nutrição,Unicid,Presencial,R$640.00,30/06/2025
+Psicologia,Unicid,Presencial,R$650.00,30/06/2025
+Odontologia,Unicid,Presencial,R$2100.00,30/06/2025
+Fonoaudiologia,Unicid,Presencial,R$600.00,30/06/2025
+Educação Física,Unicid,Presencial,R$490.00,30/06/2025
+Educação Física,Unicid,Online,R$270.00,30/06/2025
+Engenharia Civil,Unicid,Presencial,R$800.00,30/06/2025
+Engenharia Mecânica,Unicid,Presencial,R$800.00,30/06/2025
+Engenharia de Produção,Unicid,Presencial,R$800.00,30/06/2025
+Engenharia Ambiental,Unicid,Presencial,R$880.00,30/06/2025
+Engenharia Ambiental,Unicid,Online,R$420.00,30/06/2025
+Engenharia Elétrica,Unicid,Presencial,R$800.00,30/06/2025
+Análise e Desenvolvimento de Sistemas,Unicid,Presencial,R$500.00,30/06/2025
+Análise e Desenvolvimento de Sistemas,Unicid,Online,R$270.00,30/06/2025
+Ciência da Computação,Unicid,Presencial,R$560.00,30/06/2025
+Administração,Unicid,Presencial,R$600.00,30/06/2025
+Administração,Unicid,Online,R$290.00,30/06/2025
+Ciências Contábeis,Unicid,Presencial,R$600.00,30/06/2025
+Ciências Contábeis,Unicid,Online,R$290.00,30/06/2025
+Gestão de Recursos Humanos,Unicid,Presencial,R$500.00,30/06/2025
+Gestão de Recursos Humanos,Unicid,Online,R$260.00,30/06/2025
+Gestão Financeira,Unicid,Presencial,R$510.00,30/06/2025
+Gestão Financeira,Unicid,Online,R$260.00,30/06/2025
+Marketing,Unicid,Presencial,R$500.00,30/06/2025
+Marketing,Unicid,Online,R$260.00,30/06/2025
+Pedagogia,Unicid,Presencial,R$400.00,30/06/2025
+Pedagogia,Unicid,Online,R$260.00,30/06/2025
+Letras (Português/Inglês),Unicid,Presencial,R$480.00,30/06/2025
+Letras (Português/Inglês),Unicid,Online,R$270.00,30/06/2025
+Letras (Português/Espanhol),Unicid,Online,R$260.00,30/06/2025
+Direito,Unicid,Presencial,R$700.00,30/06/2025
+Serviço Social,Unicid,Presencial,R$550.00,30/06/2025
+Serviço Social,Unicid,Online,R$290.00,30/06/2025
+Ciências Sociais,Unicid,Online,R$290.00,30/06/2025
+Relações Internacionais,Unicid,Presencial,R$600.00,30/06/2025
+Biomedicina,Cruzeiro do Sul,EAD Semipresencial,R$600.00,30/06/2025
+Enfermagem,Cruzeiro do Sul,EAD Semipresencial,R$650.00,30/06/2025
+Fisioterapia,Cruzeiro do Sul,EAD Semipresencial,R$700.00,30/06/2025
+Nutrição,Cruzeiro do Sul,EAD Semipresencial,R$620.00,30/06/2025
+Farmácia,Cruzeiro do Sul,EAD Semipresencial,R$680.00,30/06/2025
+Engenharia Civil,Cruzeiro do Sul,EAD Semipresencial,R$800.00,30/06/2025
+Engenharia de Produção,Cruzeiro do Sul,EAD Semipresencial,R$750.00,30/06/2025
+Engenharia Elétrica,Cruzeiro do Sul,EAD Semipresencial,R$770.00,30/06/2025
+Engenharia Mecânica,Cruzeiro do Sul,EAD Semipresencial,R$780.00,30/06/2025
+Engenharia da Computação,Cruzeiro do Sul,EAD Semipresencial,R$790.00,30/06/2025
+Administração,Cruzeiro do Sul,EAD 100% online,R$300.00,30/06/2025
+Ciências Contábeis,Cruzeiro do Sul,EAD 100% online,R$320.00,30/06/2025
+Gestão de Recursos Humanos,Cruzeiro do Sul,EAD 100% online,R$280.00,30/06/2025
+Gestão Financeira,Cruzeiro do Sul,EAD 100% online,R$290.00,30/06/2025
+Marketing,Cruzeiro do Sul,EAD 100% online,R$270.00,30/06/2025
+Pedagogia,Cruzeiro do Sul,EAD 100% online,R$250.00,30/06/2025
+Letras (Português/Inglês),Cruzeiro do Sul,EAD 100% online,R$260.00,30/06/2025
+Letras (Português/Espanhol),Cruzeiro do Sul,EAD 100% online,R$260.00,30/06/2025
+Educação Física,Cruzeiro do Sul,EAD 100% online,R$270.00,30/06/2025
+História,Cruzeiro do Sul,EAD 100% online,R$260.00,30/06/2025
+Direito,Cruzeiro do Sul,Presencial,R$900.00,30/06/2025
+Serviço Social,Cruzeiro do Sul,EAD 100% online,R$280.00,30/06/2025
+Ciências Sociais,Cruzeiro do Sul,EAD 100% online,R$270.00,30/06/2025
+Relações Internacionais,Cruzeiro do Sul,EAD 100% online,R$300.00,30/06/2025
+Ciência Política,Cruzeiro do Sul,EAD 100% online,R$290.00,30/06/2025
+Arquitetura e Urbanismo,Cruzeiro do Sul,EAD Semipresencial,R$750.00,30/06/2025
+Design de Interiores,Cruzeiro do Sul,EAD 100% online,R$280.00,30/06/2025
+Design Gráfico,Cruzeiro do Sul,EAD 100% online,R$270.00,30/06/2025
+Artes Visuais,Cruzeiro do Sul,EAD 100% online,R$260.00,30/06/2025
+Fotografia,Cruzeiro do Sul,EAD 100% online,R$250.00,30/06/2025
+Algoritmo,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+Python 3 – Mundo 1,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+Python 3 – Mundo 2,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+Python 3 – Mundo 3,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+Java Básico,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+PHP Básico,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+PHP POO,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+PHP Moderno: Módulo 1,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+JavaScript,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+MySQL,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+HTML5 e CSS3: Módulo 1 de 5,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+HTML5 e CSS3: Módulo 2 de 5,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+HTML5 e CSS3: Módulo 3 de 5,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+HTML5 e CSS3: Módulo 4 de 5,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+HTML5 e CSS3: Módulo 5 de 5,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+WordPress: Criando um site do zero,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+"WordPress: Segurança, performance e recursos avançados",Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+WordPress + WooCommerce: Como criar uma loja virtual de sucesso,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+Inteligência Artificial,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+SEO: Módulo 1 – Transforme seu site em um campeão de buscas,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+SEO: Módulo 2 – Domine a criação de conteúdos otimizados,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+Redes de Computadores,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+Curso Prático de Redes de Computadores e Internet,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+Endereçamento IPv4,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+Linux,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+Segurança da Informação: Módulo 0,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+Segurança da Informação: Módulo 1,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+Segurança da Informação: Módulo 2,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+Segurança da Informação: Módulo 3,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+Segurança da Informação: Módulo 4,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+Excel,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+Word,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+PowerPoint,Curso em Vídeo,EAD 100% online,R$50.00,30/06/2025
+Java: criando a sua primeira aplicação,Alura,EAD 100% online,R$109.00,30/06/2025
+Python: começando com a linguagem,Alura,EAD 100% online,R$109.00,30/06/2025
+C#: desenvolvendo aplicações com .NET,Alura,EAD 100% online,R$109.00,30/06/2025
+HTML e CSS: construindo páginas web,Alura,EAD 100% online,R$109.00,30/06/2025
+JavaScript: manipulando o DOM,Alura,EAD 100% online,R$109.00,30/06/2025
+React: desenvolvendo interfaces interativas,Alura,EAD 100% online,R$109.00,30/06/2025
+Data Science: fundamentos e aplicações,Alura,EAD 100% online,R$109.00,30/06/2025
+Machine Learning: introdução e conceitos,Alura,EAD 100% online,R$109.00,30/06/2025
+Power BI: análise de dados e visualizações,Alura,EAD 100% online,R$109.00,30/06/2025
+UX Design: princípios e práticas,Alura,EAD 100% online,R$109.00,30/06/2025
+Adobe XD: prototipagem de interfaces,Alura,EAD 100% online,R$109.00,30/06/2025
+Design Thinking: inovação centrada no usuário,Alura,EAD 100% online,R$109.00,30/06/2025
+Desenvolvimento Android com Kotlin,Alura,EAD 100% online,R$109.00,30/06/2025
+iOS: criando apps com Swift,Alura,EAD 100% online,R$109.00,30/06/2025
+Flutter: desenvolvimento multiplataforma,Alura,EAD 100% online,R$109.00,30/06/2025
+Docker: containers e virtualização,Alura,EAD 100% online,R$109.00,30/06/2025
+Kubernetes: orquestração de containers,Alura,EAD 100% online,R$109.00,30/06/2025
+AWS: serviços e infraestrutura na nuvem,Alura,EAD 100% online,R$109.00,30/06/2025
+Gestão Ágil: Scrum e Kanban,Alura,EAD 100% online,R$109.00,30/06/2025
+Liderança: desenvolvendo equipes de alta performance,Alura,EAD 100% online,R$109.00,30/06/2025
+Inovação: estratégias e cultura organizacional,Alura,EAD 100% online,R$109.00,30/06/2025
+Introdução à Administração,Fundação Bradesco,EAD 100% online,Gratuito,30/06/2025
+Contabilidade Empresarial,Fundação Bradesco,EAD 100% online,Gratuito,30/06/2025
+Excel 2016 - Básico,Fundação Bradesco,EAD 100% online,Gratuito,30/06/2025
+Linguagem de Programação Java - Básico,Fundação Bradesco,EAD 100% online,Gratuito,30/06/2025
+Língua Portuguesa sem Complicações,Fundação Bradesco,EAD 100% online,Gratuito,30/06/2025
+Educação Inclusiva,Fundação Bradesco,EAD 100% online,Gratuito,30/06/2025
+Empreendedorismo e Inovação,Fundação Bradesco,EAD 100% online,Gratuito,30/06/2025
+FluêncIA - Inteligência Artificial,Fundação Bradesco,EAD 100% online,Gratuito,30/06/2025
+Inteligência Artificial para Pequenas e Médias Empresas,Fundação Bradesco,EAD 100% online,Gratuito,30/06/2025
+Desenvolvimento Profissional,Fundação Bradesco,EAD 100% online,Gratuito,30/06/2025

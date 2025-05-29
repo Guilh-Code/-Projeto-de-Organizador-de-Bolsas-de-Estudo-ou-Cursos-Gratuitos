@@ -1,4 +1,5 @@
 from datetime import datetime
+from time import sleep
 import json
 import csv
 
@@ -180,6 +181,11 @@ def filtrar_por_instituicao(lista, instituicao):
 # Execução
 
 carregar_bolsas_de_arquivo()
+
+print(f'\n{NEGRITO}{VERDE}🎉 Bem-vindo ao Organizador de Bolsas de Estudo!{RESET}')
+print(f'{AZUL}📊 Total de bolsas cadastradas:{RESET} {NEGRITO}{len(bolsas)}{RESET}')
+print(f'{AMARELO}⏳ Carregando... O menu aparecerá em instantes.{RESET}')
+sleep(5)
 
 while True:
     exibir_menu()

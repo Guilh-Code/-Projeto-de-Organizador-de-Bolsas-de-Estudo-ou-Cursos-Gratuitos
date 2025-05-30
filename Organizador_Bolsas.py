@@ -2,6 +2,16 @@ from datetime import datetime
 from time import sleep
 import json
 import csv
+import os
+import sys
+
+# ===========================================================
+# Função auxiliar para obter o caminho correto do arquivo
+# ===========================================================
+def caminho_absoluto(relativo):
+    if hasattr(sys, '_MEIPASS'):
+        return os.path.join(sys._MEIPASS, relativo)
+    return os.path.join(os.path.abspath("."), relativo)
 
 # ===========================================================
 # Arquivos JSON
@@ -9,15 +19,17 @@ import csv
 
 # Salva os dados da lista 'bolsas' no arquivo JSON
 def salvar_bolsas_em_arquivos(nome_arquivo='bolsas.json'):
-    with open(nome_arquivo, 'w', encoding='utf-8') as f:
+    caminho = os.path.join(os.path.abspath("."), nome_arquivo)  # salvar sempre no diretório atual
+    with open(caminho, 'w', encoding='utf-8') as f:
         json.dump(bolsas, f, indent=4, ensure_ascii=False)
     print('📁 Dados salvos com sucesso!')
 
 # Carrega os dados do arquivo JSON para a lista 'bolsas'
 def carregar_bolsas_de_arquivo(nome_arquivo='bolsas.json'):
     global bolsas
+    caminho = caminho_absoluto(nome_arquivo)
     try:
-        with open(nome_arquivo, 'r', encoding='utf-8') as f:
+        with open(caminho, 'r', encoding='utf-8') as f:
             bolsas = json.load(f)
         print('📂 Dados carregados com sucesso!')
     except FileNotFoundError:
